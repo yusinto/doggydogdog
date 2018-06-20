@@ -1,0 +1,25 @@
+{
+  "name": "doggydogdog",
+  "version": "1.0.0",
+  "description": "Playground for cssgrid and sc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules src/server"
+  },
+  "author": "Yus Ng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.51",
+    "@babel/preset-env": "^7.0.0-beta.51",
+    "@babel/preset-react": "^7.0.0-beta.51",
+    "babel-loader": "^8.0.0-beta",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
